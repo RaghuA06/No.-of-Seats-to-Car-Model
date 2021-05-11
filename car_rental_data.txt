@@ -1,0 +1,52 @@
+economy
+Chevrolet Spark
+4
+497.11
+economy
+Chevrolet Spark
+4
+365.75
+compact
+Hyundai Accent
+4
+497.11
+minivan
+Dodge Grand Caravan
+7
+887.12
+economy
+Chevrolet Spark
+4
+365.75
+compact
+Hyundai Accent
+4
+536.66
+suv
+Ford Escape
+5
+643.37
+suv
+Ford Edge
+5
+668.36
+minivan
+Dodge Grand Caravan
+7
+887.12
+suv
+Ford Edge
+5
+440.01
+compact
+Kia Rio
+5
+365.75
+suv
+Hyundai Tucson
+5
+668.36
+minivan
+Dodge Grand Caravan
+7
+887.12
